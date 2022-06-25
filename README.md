@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Beth Nduta
 ## 🔭 About me
-- A passionate FullStack Software Developer, having an experience of building websites with python,Javascript,Angular,Flask and some other cool libraries and frameworks. Am studying Software Development course at Moringa School as I finalize my Bachelor's in Business Information Technology coming July 2022
+- A passionate FullStack Software Developer, learning how to build websites with python,Javascript,Angular,Flask and some other cool libraries and frameworks. Am studying Software Development course at Moringa School as I finalize my Bachelor's in Business Information Technology coming July 2022
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bethnduta)
 <!-- **bethnduta/bethnduta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
