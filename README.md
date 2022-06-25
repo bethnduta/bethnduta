@@ -34,17 +34,19 @@
 <br>
 <br>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bethnduta)
+
 ### Connect With Me:
 
 <br>
 <div> 
  <a href="mailto:beth.nduta@student.moringaschool.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://www.linkedin.com/in/ivy-jeptoo-bb24021a2" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://twitter.com/IvyYegon?t=yN_QgohYXWxgg8wwhhTMRQ&s=09" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="(https://www.linkedin.com/in/beth-nduta-6a2ba320a/)" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+ 
 </div>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bethnduta)
+
 <!-- **bethnduta/bethnduta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
