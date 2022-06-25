@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Beth Nduta
+- 🔭 About me
+- A passionate FullStack Software Developer, having an experience of building websites with python,Javascript,Angular,Flask and some other cool libraries and frameworks
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bethnduta)
 <!-- **bethnduta/bethnduta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-### Hi there 👋, my name is Arturs
+<!-- ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -22,7 +24,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.  -->
 
 
 
