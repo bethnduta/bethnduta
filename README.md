@@ -1,4 +1,5 @@
-# Hi there<img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Beth Nduta.
+# Hi there<img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">...
+# I'm Beth Nduta.
 
 ## 🔭 About me
 - A passionate FullStack Software Developer who can build websites with python,Javascript,Angular,Flask and some other cool libraries and frameworks. Am a software developer graduate from Moringa School and a BBIT graduate from PAC University.
