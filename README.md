@@ -2,8 +2,7 @@
 # I'm Beth Nduta.
 
 ## 🔭 About me
-- A passionate FullStack Software Developer who can build websites with python,Javascript,Angular,Flask and some other cool libraries and frameworks. Am a software developer graduate from Moringa School and a BBIT graduate from PAC University.
-
+- A passionate FullStack Software Developer who can build websites with python,Javascript,Angular,Flask and some other cool libraries and frameworks.
 
 ## A Fullstack developer.
 
